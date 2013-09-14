@@ -5,14 +5,14 @@
    * Windows installation: Accept all defaults
 2. Setup
    * Identity 
-     - `$ git config --global user.name "Brian Jesse"`
+     - `$ git config --global user.name "Name"`
      - `$ git config --global user.email user@example.com`
    * Configuration Files `~/.gitconfig`
 3. Cloning
-   * `git clone http://github.com/bajesse/git-workshop.git`
+   * `git clone http://github.com/joshuavial/git-workshop.git`
    * `cd git-workshop`
-4. Checkout a branch
-   * `git checkout dev`
+<!--- 4. Checkout a branch
+   * `git checkout dev` --->
 5. Create a feature branch
    * `git checkout -b my-feature`
 6. Modify files 
