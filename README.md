@@ -11,8 +11,10 @@
 3. Cloning
    * `git clone http://github.com/joshuavial/git-workshop.git`
    * `cd git-workshop`
-<!--- 4. Checkout a branch
-   * `git checkout dev` --->
+<!--- 
+4. Checkout a branch
+   * `git checkout dev` 
+--->
 5. Create a feature branch
    * `git checkout -b my-feature`
 6. Modify files 
