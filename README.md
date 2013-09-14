@@ -1,6 +1,7 @@
 # Outline
 
 1. Installation
+   * Setup github account
    * [`http://git-scm.com/downloads`](http://git-scm.com/downloads)
    * Windows installation: Accept all defaults
 1. Setup
@@ -24,8 +25,8 @@
    * `git commit -m 'my message`
 1. Check the log
     * `git log`
-1. Merge into devel
-    * `git checkout dev`
+1. Merge into master
+    * `git checkout master`
     * `git merge my-feature`
 1. Demonstration of push
 1. Create a release branch
@@ -41,8 +42,6 @@
 1. Tagging the release
     * `git checkout master`
     * `git tag 1.0`
-1. Managing hotfixes
-    * the same as a release branch, but it is branched from master and merged back to dev and master
 1. Merge conflict resolution
     * Git will create a new commit when merge conflicts occur
     * Any files that now have merge conflicts will have resolution markers in them
