@@ -1,0 +1,12 @@
+help <command_name> - show the help for a command
+
+pwd - present workding directory - what directory am I in
+
+ls - list, show the files and folders in the current directory
+
+cd - change directory, take you to the root directory for this user
+cd .. - go up one directory level
+cd folder_name - enter a subfolder
+
+mkidr <directory_name> - make a new directory
+
