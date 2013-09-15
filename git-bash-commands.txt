@@ -10,3 +10,4 @@ cd folder_name - enter a subfolder
 
 mkidr <directory_name> - make a new directory
 
+here is another change
